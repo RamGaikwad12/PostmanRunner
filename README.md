@@ -2,3 +2,4 @@
 PostmanRunner
 Test
 TST
+latest
